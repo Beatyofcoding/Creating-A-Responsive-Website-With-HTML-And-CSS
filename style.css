@@ -11,14 +11,18 @@ header{
     display: flex;
     background: lightgray;
     width: 90%;
+    height: 10vh;
     margin: auto;
 }
-.Logo-container {
-    background: darkblue;
+.logo-container {
+    background: rgb(82, 78, 78);
+    flex: 1;
 }
 nav {
-    background: rgb(19, 19, 214);
+    background: whitesmoke;
+    flex: 2;
 }
 .cart {
     background: darkgreen;
+    flex: 1;
 }
