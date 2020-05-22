@@ -34,8 +34,15 @@ nav {
 }
 .nav-links{
     justify-content: space-around;
+    list-style: none;
+}
+.nav-link {
+    color: #5f5f79;
+    font-size: 18px;
+    text-decoration: none;
 }
 .cart {
     /* background: darkgreen; */
     flex: 1;
+    justify-content: flex-end;
 }
