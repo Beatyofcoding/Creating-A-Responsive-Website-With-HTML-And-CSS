@@ -13,16 +13,29 @@ header{
     width: 90%;
     height: 10vh;
     margin: auto;
+    align-items: center;
+}
+.logo-container,
+.nav-links,
+.cart{
+    display: flex;
 }
 .logo-container {
-    background: rgb(82, 78, 78);
+    /* background: rgb(82, 78, 78); */
     flex: 1;
 }
+.logo{
+    font-weight: 400;
+    margin: 5px;
+}
 nav {
-    background: whitesmoke;
+    /* background: whitesmoke; */
     flex: 2;
 }
+.nav-links{
+    justify-content: space-around;
+}
 .cart {
-    background: darkgreen;
+    /* background: darkgreen; */
     flex: 1;
 }
