@@ -7,3 +7,9 @@
 body{
     font-family: 'Josefin Sans', sans-serif;
 }
+header{
+    display: flex;
+    background: lightgray;
+    width: 90%;
+    margin: auto;
+}
