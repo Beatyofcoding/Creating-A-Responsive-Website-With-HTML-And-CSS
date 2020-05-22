@@ -13,3 +13,12 @@ header{
     width: 90%;
     margin: auto;
 }
+.Logo-container {
+    background: darkblue;
+}
+nav {
+    background: rgb(19, 19, 214);
+}
+.cart {
+    background: darkgreen;
+}
