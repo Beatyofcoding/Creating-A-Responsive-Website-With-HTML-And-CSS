@@ -54,7 +54,14 @@ nav {
     align-items: center;
 }
 .introduction {
-    background: lightblue;
+    /* background: lightblue; */
+    flex: 1;
+}
+.intro-text h1 {
+    font-size: 44px;
+    font-weight: 500;
+}
+.cover{
     flex: 1;
 }
 .cover img {
