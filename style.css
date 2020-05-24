@@ -48,8 +48,15 @@ nav {
 }
 .presentation{
     display: flex;
+    width: 90%;
+    margin: auto;
+    min-height: 80vh;
+    align-items: center;
+}
+.introduction {
+    background: lightblue;
+    flex: 1;
 }
 .cover img {
     height: 60vh;
 }
-/* Testing Upload of Commitement ----GITHUB BUG--- */
