@@ -132,3 +132,10 @@ nav {
     height: 30%;
     
 }
+.laptop-select {
+    position: absolute;
+    width: 15%;
+    justify-content: space-around;
+    display: flex;
+    right: 20%;
+}
