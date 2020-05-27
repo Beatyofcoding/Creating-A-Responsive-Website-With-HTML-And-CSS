@@ -12,7 +12,7 @@ body{
 }
 header{
     display: flex;
-    background: lightgray;
+    /* background: rgb(129, 113, 113); */
     width: 90%;
     height: 10vh;
     margin: auto;
@@ -138,4 +138,9 @@ nav {
     justify-content: space-around;
     display: flex;
     right: 20%;
+}
+#Signature{
+    position: absolute;
+    right: 45%;
+    bottom : 1%;
 }
